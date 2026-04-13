@@ -28,6 +28,8 @@ E' -> + T E' | ε
 F  -> ( E ) | id
 ```
 
+
+
 ## Cálculo de FIRST
 
 - Si `X` es terminal, `FIRST(X) = {X}`.
@@ -86,3 +88,6 @@ La gramática es **LL(1)** si ninguna celda contiene más de una producción. Si
 | `main.py` | Demostraciones |
 
 
+##Link Video
+
+https://youtu.be/rgkZreo4OR4
