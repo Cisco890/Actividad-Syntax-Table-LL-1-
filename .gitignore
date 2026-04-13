@@ -1,0 +1,41 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cobertura (si usas herramientas externas)
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Herramientas / tipo
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
